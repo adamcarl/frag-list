@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sample</string>
+    <string-array name="myArray">
+        <item>This</item>
+        <item>is</item>
+        <item>the</item>
+        <item>ListView</item>
+    </string-array>
+</resources>
